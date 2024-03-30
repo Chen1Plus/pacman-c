@@ -1,0 +1,6 @@
+[
+{
+  "directory": "c:\\Users\\1plus\\Desktop\\pacman-c",
+  "arguments": ["C:\\Users\\1plus\\scoop\\apps\\llvm\\current\\bin\\clang-cl.exe", "-c", "-m64", "-Zi", "-FS", "-Fdbuild\\windows\\x64\\debug\\compile.pacman-c.pdb", "-Od", "-IC:\\Users\\1plus\\AppData\\Local\\.xmake\\packages\\r\\raylib\\5.0\\abdd28c48a6e46ff91e33bde93a2986d\\include", "-Fobuild\\.objs\\pacman-c\\windows\\x64\\debug\\src\\main.c.obj", "src\\main.c"],
+  "file": "src\\main.c"
+}]
