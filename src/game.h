@@ -1,11 +1,9 @@
 #ifndef GAME_H
 #define GAME_H
 
-#include <raylib.h>
 #include <stdbool.h>
 
 #include "scenes.h"
-#include "utility.h"
 
 // ============   Basic Game Info   ============
 #define SCREEN_W 800

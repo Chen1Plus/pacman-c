@@ -1,6 +1,7 @@
 #include <raylib.h>
 
 #include "game.h"
+#include "utility.h"
 
 int main(void) {
     // initialize raylib
