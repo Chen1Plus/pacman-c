@@ -4,7 +4,7 @@ add_requires("raylib")
 
 target("pacman-c")
     set_kind("binary")
-    add_files("src/*.c")
+    add_files("src/**.c")
     add_packages("raylib")
 
 --
